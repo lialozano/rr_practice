@@ -1,2 +1,7 @@
-# rr_practice
-Repository to test out my efforts to make research more reproducible
+## How to Fold a Paper Airplane
+
+1. 
+2. 
+3.
+4.
+5.
